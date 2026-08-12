@@ -1,1 +1,0 @@
-# About Me ## Name John Marqueses ## Course Bachelor of Science in Information Technology ## Subject CCM101 – Cloud Computing ## Interests I am interested in technology, programming, computer systems, and cloud computing. ## Goal My goal is to improve my skills in Linux, cloud infrastructure, virtualization, and other cloud technologies.

@@ -15,13 +15,14 @@ engineer.
 ## Mission Objectives
 
 Upon successful completion of this mission, you should be able to:
- Access a cloud-based Linux environment using KillerCoda.
- Explore and navigate the Linux operating system.
- Gather basic system information.
- Organize files and directories using Linux commands.
- Create and maintain a professional GitHub repository.
- Document technical work using Markdown.
- Demonstrate proper documentation practices used by cloud professionals. 
+
+* Access a cloud-based Linux environment using KillerCoda.
+* Explore and navigate the Linux operating system.
+* Gather basic system information.
+* Organize files and directories using Linux commands.
+* Create and maintain a professional GitHub repository.
+* Document technical work using Markdown.
+* Demonstrate proper documentation practices used by cloud professionals. 
 
 ## Activities Performed
 

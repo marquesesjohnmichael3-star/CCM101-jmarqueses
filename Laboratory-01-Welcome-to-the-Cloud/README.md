@@ -38,21 +38,21 @@ Captured screenshots as evidence.
 ## Linux Commands Used
 
 * whoami
-pwd
-hostname
-useradd
-passwd
-su
-cat
-uname
-lscpu
-free
-df
-mkdir
-cd
-ls
-nano
-git
+* pwd
+* hostname
+* useradd
+* passwd
+* su
+* cat
+* uname
+* lscpu
+* free
+* df
+* mkdir
+* cd
+* ls
+* nano
+* git
 
 
 ## Skills Learned

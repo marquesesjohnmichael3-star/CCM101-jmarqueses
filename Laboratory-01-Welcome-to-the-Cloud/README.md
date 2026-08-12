@@ -1,4 +1,4 @@
-Mission Overview
+## Mission Overview
 
 Congratulations!
 You have been accepted as a Junior Cloud Infrastructure Engineer Trainee at CloudNova Technologies, a
@@ -11,7 +11,9 @@ Cloud Computing Portfolio on GitHub. This portfolio will serve as your professio
 semester and will be updated after every laboratory activity.
 Complete each checkpoint carefully. Every completed task represents a real-world responsibility of a cloud
 engineer.
-Mission Objectives
+
+## Mission Objectives
+
 Upon successful completion of this mission, you should be able to:
  Access a cloud-based Linux environment using KillerCoda.
  Explore and navigate the Linux operating system.
@@ -19,26 +21,39 @@ Upon successful completion of this mission, you should be able to:
  Organize files and directories using Linux commands.
  Create and maintain a professional GitHub repository.
  Document technical work using Markdown.
- Demonstrate proper documentation practices used by cloud professionals.
-Required Resources
- Computer or Laptop
- Stable Internet Connection
- Modern Web Browser
- GitHub Account
- KillerCoda Account 
+ Demonstrate proper documentation practices used by cloud professionals. 
 
-Mission Rules
-1. Complete each checkpoint sequentially.
-2. Perform all activities inside the KillerCoda Playground unless otherwise instructed.
-3. Use only your own GitHub repository.
-4. All documentation must be written using Markdown (.md) unless a different format is specified.
-5. Screenshots must clearly show the terminal output and browser window where applicable.
-6. Commit and push your work after completing each checkpoint.
-7. Academic honesty is expected. Collaboration is encouraged, but submitted work must be your own.
-Mission Brief
-Your supervisor has assigned you to complete the Cloud Engineer Onboarding Challenge.
-Your first responsibility is to prepare your professional workspace. Throughout the semester, every laboratory
-activity, documentation, script, screenshot, and reflection must be stored inside a single GitHub repository.
-By the end of the course, this repository will serve as your Cloud Computing Portfolio that demonstrates your
-practical skills in Linux, Git, Docker, Kubernetes, cloud infrastructure, monitoring, and enterprise system
-administration. 
+## Activities Performed
+
+Launched an Ubuntu Linux Playground using KillerCoda.
+Created a new Linux user with Bash, a home directory, and sudo privileges.
+Logged in to the new user account.
+Recorded the username, working directory, and hostname.
+Gathered Linux system information.
+Created and organized directories and Markdown files.
+Created a public GitHub repository.
+Documented the laboratory activity.
+Captured screenshots as evidence.
+
+## Linux Commands Used
+whoami
+pwd
+hostname
+useradd
+passwd
+su
+cat
+uname
+lscpu
+free
+df
+mkdir
+cd
+ls
+nano
+git
+
+
+## Skills Learned
+
+This laboratory activity helped me develop basic Linux command-line skills, file and directory management, system information gathering, Git version control, GitHub repository management, and Markdown documentation skills.

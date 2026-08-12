@@ -36,7 +36,8 @@ Documented the laboratory activity.
 Captured screenshots as evidence.
 
 ## Linux Commands Used
-whoami
+
+* whoami
 pwd
 hostname
 useradd
